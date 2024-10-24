@@ -12,3 +12,6 @@ def test_demo1():
 
 def test_demo2(before_after):
     assert 2 == 2
+
+def test_demo3(before_after):
+    assert 3 == 3
